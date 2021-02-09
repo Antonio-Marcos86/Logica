@@ -1,4 +1,4 @@
-Algoritmo "01_Exercicio_Salario"
+Algoritmo "03_Exercicio_Salario_02"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Adriano Leite da Silva
 // Descrição   : Treinando a atribuição de valores
@@ -6,11 +6,22 @@ Algoritmo "01_Exercicio_Salario"
 // Data atual  : 09/02/2021
 Var
 
-   nome, raca,endResidencial ,endTrabalho, area : caractere
+   nome,endResidencial ,endTrabalho, area : caractere
    idade: inteiro
    salario: real
 Inicio
 
+escreval("#######                                      ")
+escreval("#        ####  #    # #####   ####  #   #  ####   ")
+escreval("#       #    # #    # #    # #       # #  #       ")
+escreval("#####   #    # #    # #    #  ####    #    ####   ")
+escreval("#       #    # #    # #####       #   #        #  ")
+escreval("#       #    # #    # #   #  #    #   #   #    #  ")
+escreval("#        ####   ####  #    #  ####    #    ####   ")
+
+
+    escreval("==========Foursys============")
+      
    escreva("Qual o nome do colaborador?: ")
    leia(nome)
    escreva("Qual é o salário?: R$ ")
@@ -24,7 +35,29 @@ Inicio
    escreva("Qual área que o colaborador atua?: ")
    leia (area)
     limpatela
-   escreval("O colaborador ",nome ," , de idade ",idade," anos"," endereço residencial ",endResidencial," e salário R$",salario, ". Está alocado na área de ",area," no endereço ",endTrabalho,".")
+   escreval("===========================================================================================================================================")
+    escreval("==========================================================================================================================================")
+     escreval("========        =========     ======  =======  =====          =======    ======  ============  ======      ==============================")
+     escreval("========  ============  ======  ====  =======  ==  ========  =====    ===   ====   =========  =====   ====   ===========================")
+      escreval("=======  ===========  =========  ==  =======  ==  =========  ===   ======   ====   ======  ====  =========  ===========================")
+       escreval("======        =====  =========  ==  =======  ==  ========  ===   ================  ===   =====   =====================================")
+        escreval("=====  ===========  =========  ==  =======  ==  =====  ========    ===============     ==========   ========== ======================")
+         escreval("====  ===========  =========  ==  =======  ==       ==============   =============  ==============   ===============================")
+          escreval("===  ===========  ========  ====  =====  ===  ====   ====  ========   ===========  =====  =======   ========= =====================")
+           escreval("==  ============  ======  ======  ===  ====  =====   ====  ====   ==============  ======  ====   =================================")
+            escreval("=  =============      ===========    =====  ======   =====    =================  ========     ===================================")
+             escreval("================================================================================================================================")
+             
+
+      escreval(" Data: 09 de fevereiro de 2021")
+      escreval(" dados do Colaborador:")
+
+   escreval("Nome do colaborador: ",nome)
+   escreval ("Idade: ",idade," anos")
+   escreval(" endereço residencial:" ,endResidencial)
+   escreval("Salário: R$", salario)
+   escreval("Área de atuação: ",area)
+   escreval( "Enderenço de trabalho: ", endTrabalho)
 
 
 
