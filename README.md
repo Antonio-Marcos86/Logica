@@ -57,6 +57,7 @@ Observando a dificuldade dos estudantes de Computação em entender programaçã
 
 ### O que é Algoritmo?
 Um algoritmo é uma seqüência de instruções finita e ordenada de forma lógica para a resolução de uma determinada tarefa ou problema. São exemplos de algoritmos instruções de montagem, receitas, manuais de uso, etc. Um algoritmo não é a solução do problema, pois, se assim fosse, cada problema teria um único algoritmo; um algoritmo é um caminho para a solução de um problema. Em geral, existem muitos (senão infinitos) caminhos que levam a uma solução satisfatória.
+Para a construção de algoritmos que realizam cálculo matemáticos, todas as expressões aritméticas devem ser linearizadas, ou seja, colocadas em linhas, devendo também ser feito o mapeamento dos operadores da aritmética tradicional para os do Português Estruturado.
 
 ### Operadores Aritméticos: 
 
