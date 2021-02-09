@@ -17,7 +17,8 @@ Copie todos os exercícios, faça, refaça e refaça novamente, até que tudo fi
 
 
 
-- [Lógica de Programação 🎓](#lógica-de-programação-)
+## Conteúdos:
+
   - [Introdução](#introdução)
   - [Uso](#uso)
   - [Como utilizar? 🗿](#como-utilizar-)
