@@ -1,12 +1,12 @@
 Algoritmo "05_Exercicios_Calcula_produtos"
-// 
-//  
+//
+//
 // Descrição   : Calcula valor total de um produto
 // Autor(a)    : Nome do(a) aluno(a)
 // Professor   : Adriano Leite da Silva
 // Data atual  : 10/02/2021
 Var
-// Seção de Declarações das variáveis 
+// Seção de Declarações das variáveis
    nomeProd : caractere
    valorProd, quant: real
 Inicio
